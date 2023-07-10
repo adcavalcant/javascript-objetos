@@ -1,4 +1,4 @@
-const dados = require("./cliente.json");
+const dados = require("./clientes.json");
 
 console.log(dados);
 console.log(typeof dados);
