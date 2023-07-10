@@ -1,7 +1,11 @@
 {
-  "nome": "André",
-  "idade": 32,
-  "cpf": "21323144324",
-  "email": "andre@dominio.com",
-  "telefones": ["112313124", "4324324324", "2139263730"]
+  "nome": "Joao",
+  "email": "joao@firma.com",
+  "telefone": ["11223344", "11922334453"],
+  "endereco": {
+    "rua": "R. Joseph Climber",
+    "numero": 1234,
+    "apartamento": true,
+    "complemento": "ap 934"
+  }
 }
